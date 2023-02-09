@@ -96,7 +96,7 @@ footer { /*removed class tag*/
 }
 
 /*sets font size of 'h2' in 'footer'*/
-footer h2 { /*removed class tag*/
+footer h4 { /*removed class tag*/
     font-size: 20px;
 }
 
